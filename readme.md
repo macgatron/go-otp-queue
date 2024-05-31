@@ -1,0 +1,1 @@
+Implement queue retry mechanism in rabbitmq
